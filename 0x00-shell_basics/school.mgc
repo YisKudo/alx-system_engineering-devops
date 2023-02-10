@@ -1,2 +1,2 @@
-#!/bin/bash
-file -z -F '\0' * | grep -z SCHOOL
+0 string SCHOOL
+!:mime School
